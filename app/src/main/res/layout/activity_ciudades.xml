@@ -13,9 +13,11 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="143dp"
+        android:background="@color/purple_700"
+        android:backgroundTint="@color/purple_700"
         android:text="@string/texto_bienvenida"
         android:textColor="@color/white"
-        android:textSize="10sp" />
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/bVeracruz"

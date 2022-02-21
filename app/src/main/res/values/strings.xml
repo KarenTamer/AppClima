@@ -12,5 +12,7 @@
 
     <string name="texto_boton_veracruz">Clima de la ciudad de Orizaba,Veracruz</string>
     <string name="texto_boton_berlin">Clima de la ciudad de Berlín</string>
+    <string name="texto_boton_Mexico">Clima de la ciudad de Mexico</string>
+    <string name="texto_boton_Colima">Clima de la ciudad de Colima</string>
 
 </resources>

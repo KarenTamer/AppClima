@@ -34,4 +34,20 @@
         android:layout_height="wrap_content"
         android:text="@string/texto_boton_berlin"
         android:textColor="#F44336" />
+
+    <Button
+        android:id="@+id/bMexico"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_boton_Mexico"
+        android:textColor="#F44336" />
+
+    <Button
+        android:id="@+id/bColima"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_boton_Colima"
+        android:textColor="#F44336" />
 </LinearLayout>

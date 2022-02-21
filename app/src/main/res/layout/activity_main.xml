@@ -7,10 +7,26 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tvGrados"
+        android:layout_width="18dp"
+        android:layout_height="8dp"
+        android:text="0°"
+        tools:layout_editor_absoluteX="227dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+    <TextView
+        android:id="@+id/tvEstatus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="0°"
-        tools:layout_editor_absoluteX="181dp"
-        tools:layout_editor_absoluteY="320dp" />
+        android:text="Ciudad de México"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="323dp" />
+
+    <TextView
+        android:id="@+id/tvCiudad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nublado"
+        tools:layout_editor_absoluteX="179dp"
+        tools:layout_editor_absoluteY="411dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,6 +1,6 @@
 package com.example.appclima
 
-class Ciudad (nombre:String, grados:Int, estatus:String){
+class Ciudad (name:String, grados:Int, estatus:String){
 
     var nombre:String = ""
     var grados:Int = 0
